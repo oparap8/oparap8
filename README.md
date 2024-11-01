@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Peter Opara!
 
-<!--
-**oparap8/oparap8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate junior developer focused on creating dynamic, user-friendly web applications with React. I'm dedicated to expanding my skills and diving into the latest front-end technologies to bring innovative projects to life.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Developer Tools:** Git, GitHub, VS Code, npm, Webpack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced React concepts
+- State management with Redux
+- Backend basics with Node.js
+
